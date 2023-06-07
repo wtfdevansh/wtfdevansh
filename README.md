@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wtfdevansh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c,c++,java,web-devlopment,machine learning
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning java+DSA,web-devlopment,digital marketing
 - 💞️ I’m looking to collaborate on big problems
 - 📫 How to reach me IG:dev.ansh7
 
