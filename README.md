@@ -1,8 +1,4 @@
 <img src="./devansh%20goyal%20(2).png" width = "100%" height = "200px">
-Hey there , I'm Devansh
-_____
-hvhv
-<hr>
 
 <h1 align="center">Hi 👋, I'm Devansh goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
