@@ -3,7 +3,13 @@
 <h1 align="center" style="color:blue">Hi 👋, I'm Devansh goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
