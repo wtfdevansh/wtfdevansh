@@ -15,7 +15,7 @@ Tech Stack:
 <hr>
 Working tools: 
 
-![VScode](https://img.shields.io/badge/vscode-%2300599C.svg?style=for-the-badge&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-%2300599C.svg?style=for-the-badge&logo=VS&logoColor=white)
 <hr>
 
 <i>My Github stats: </i>
