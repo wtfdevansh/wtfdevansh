@@ -15,7 +15,7 @@
 
 <hr>
 
-<i>My Github stats:</i>
+<i>My Github stats ![color picker](https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif) :</i>
 
 ![](https://github-readme-stats.vercel.app/api?username=wtfdevansh&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <br />
