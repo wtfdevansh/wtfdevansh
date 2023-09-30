@@ -1,8 +1,8 @@
 <img src="./devansh%20goyal%20(2).png" width = "100%" height = "200px">
-```diff
-<h1 align="center" style="color:blue">+ Hi 👋, I'm Devansh goyal</h1>
+
+<h1 align="center" style="color:blue">```diff +Hi 👋, I'm Devansh goyal ```</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
