@@ -15,7 +15,7 @@ Tech Stack:
 <hr>
 Working tools: 
 
-![VScode](https://img.shields.io/badge/vscode-%2300599C.svg?style=for-the-badge&logo=VS&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-%2300599C.svg?style=for-the-badge&logo=VS&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 <hr>
 
 <i>My Github stats: </i>
