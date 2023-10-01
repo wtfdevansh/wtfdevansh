@@ -1,4 +1,4 @@
-<img src="./devansh%20goyal%20(2).png" width = "100%" ">
+<img src="./devansh%20goyal%20(2).png" width = "100%" >
 
 <h1 align="center" style="color:blue">Hi 👋, I'm Devansh goyal </h1>
 
