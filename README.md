@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color:blue">Hi 👋, I'm Devansh goyal </h1>
 
-<font color="blue">As a developer passionate about contribution and development, I thrive on building innovative solutions that make a positive impact on the world.</font>
+<h3 align="center">As a developer passionate about contribution and development, I thrive on building innovative solutions that make a positive impact on the world.</h3>
 
 
 <hr>
