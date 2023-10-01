@@ -2,7 +2,8 @@
 
 <h1 align="center" style="color:blue">Hi 👋, I'm Devansh goyal </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<font color="blue">As a developer passionate about contribution and development, I thrive on building innovative solutions that make a positive impact on the world.</font>
+
 
 <hr>
 
