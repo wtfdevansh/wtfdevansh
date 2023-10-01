@@ -27,5 +27,11 @@ Working tools:
 
 <hr>
 
+<img src="https://raw.githubusercontent.com/wtfdevansh/wtfdevansh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<hr>
+
 
 
